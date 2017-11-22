@@ -1,16 +1,55 @@
 #title {
     color: purple;
-    font-size: 64px;
-    font-family: ;
-    text-align: left;
+    font-size: 75px;
+    text-align: center;
+    padding-left: 0;
+    margin-left: 75px;
+    font-family: 'Amiri', Arial, serif;
+        font-weight: bold;
     
 }
 
-body {
+.head {
+    font-size: 30px;
+    color: white;
+    background: purple;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    margin-left: 10px margin-right: 10px;
+    margin-bottom: 11px;
+    text-align: center;
+     font-family: 'Amiri', Arial, serif;
+}
 
+.how {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+#score {
+    font-size: 30px;
+    color: white;
+}
+
+.space {
+    margin-top: 25px;
+}
+
+.jewelspace {
+	margin-left: 50px;
+}
+
+h2,
+p {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+p {
+    font-size: 16px;
 }
 
 img {
-	float: left;
+    float: left;
 }
-
